@@ -1,3 +1,6 @@
+Link to Tableau:
+https://public.tableau.com/app/profile/peter.anderson4251/viz/Tableau-Homework-Citi-Bike-Analytics_16286541754950/Story1?publish=yes
+
 # Tableau Homework - Citi Bike Analytics
 
 ### Before You Begin
